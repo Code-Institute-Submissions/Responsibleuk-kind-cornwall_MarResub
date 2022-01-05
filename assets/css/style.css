@@ -312,7 +312,7 @@ Hero Image
   height: 40rem;
   /* width: 100%; */
   overflow: hidden;
-  background: url(../images/) no-repeat center center;
+  background: url(../images/hero/hero.jpg) no-repeat center center;
   box-shadow: var(--light-shadow);
 }
 
