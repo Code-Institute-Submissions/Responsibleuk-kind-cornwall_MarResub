@@ -301,7 +301,33 @@ nav {
     }
   }
 
-  /*
+/*
+=============== 
+Hero Image
+===============
+*/
+
+/* hero image */
+#hero-image {
+  height: 40rem;
+  /* width: 100%; */
+  overflow: hidden;
+  background: url(../images/) no-repeat center center;
+  box-shadow: var(--light-shadow);
+}
+
+#hero-image-text {
+  width: 46rem;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  padding-left: 15rem;
+}
+
+#hero-image-text p {
+  padding-bottom: 2rem;
+}
+
+/*
 =============== 
 Countdown Timer
 ===============
