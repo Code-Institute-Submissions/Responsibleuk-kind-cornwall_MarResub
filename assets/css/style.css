@@ -532,27 +532,27 @@ Studio accordian
   
 }
 
-.studio {
+.accordion {
   list-style: none;
   max-width: 550px;
   width: 100%;
 }
 
-.studio-item {
+.accordion-item {
   margin-bottom: .8rem;
   border: 1px solid #F2F2F2;
   transition: all .2s linear;
 }
 
-.studio-item.open {
+.accordion-item.open {
   box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
 }
 
-.studio-item-head{
+.accordion-item-head{
   padding: 1rem;
 }
 
-.studio-item-head {
+.accordion-item-head {
   background: var(--clr-primary-1);
   color: var(--clr-white);
   cursor: pointer;
@@ -561,31 +561,30 @@ Studio accordian
   justify-content: space-between;
 }
 
-.studio-item-head i {
+.accordion-item-head i {
   transition: transform .3s linear;
 }
 
-.studio-item.open .accordion-item-head i {
+.accordion-item.open .accordion-item-head i {
   transform: rotate(-180deg)
 }
 
-.studio-item-body {
+.accordion-item-body {
   overflow: hidden;
   height: 0;
 }
 
-.studio-item.open .accordion-item-body {
+.accordion-item.open .accordion-item-body {
   padding: 1rem;
   height: auto;
 }
 
-.studio-item-body>*:not(:first-child) {
+.accordion-item-body>*:not(:first-child) {
   margin-top: .8rem;
 }
 
-.studio-item-body p {
+.accordion-item-body p {
   color: black;
   font-size: .9rem;
   line-height: 1.3;
 }
-
