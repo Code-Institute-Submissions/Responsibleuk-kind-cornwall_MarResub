@@ -328,6 +328,17 @@ Hero Image
   padding-bottom: 2rem;
 }
 
+.scroll-item-down {
+  float: right;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  padding: 2rem;
+  background-color: lightgrey;
+  border-radius: 50%;
+  box-shadow: var(--light-shadow);
+  position: fixed;
+}
+
 /*
 =============== 
 Countdown Timer
@@ -739,9 +750,6 @@ Quote generator
   padding-bottom: 8rem;
   box-shadow: var(--light-shadow);
 }
-
-
-
 
 
 
