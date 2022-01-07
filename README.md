@@ -34,8 +34,11 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 - __The landing page image__
 
-  - The landing page includes a photograph with text overlay to allow the user to see exactly what The Circle is about. The world's first sustainability life startegy agency.
-
+  - The landing page includes a hero image, with a countdown timer to the launch of kind cornwall.
+  - A scroll down button is included, so users can easily scroll down to the next section.
+  - The next section includes a description of what kind cornwall wants to achieve, with an image of peoples faces next it.
+  - The section also includes a button where people can join kind cornwall."
+  
   ## Testing 
 
 - __Different Browsers__
