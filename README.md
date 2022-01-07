@@ -35,3 +35,33 @@ This website is for anybody who wants to learn more about sustainability and tak
 - __The landing page image__
 
   - The landing page includes a photograph with text overlay to allow the user to see exactly what The Circle is about. The world's first sustainability life startegy agency.
+
+  ## Testing 
+
+- __Different Browsers__
+
+ - The site tests well on different browsers.
+
+- __Chrome__
+
+ - All previous screenshots in this document have been taken from Chrome.
+
+- __Mozilla__
+
+
+- __Edge__
+
+
+- __Footer__
+
+
+
+- __Responsiveness__
+
+
+
+### Validator Testing 
+
+- __Html__
+
+
