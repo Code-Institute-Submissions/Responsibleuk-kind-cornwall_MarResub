@@ -944,7 +944,7 @@ width: 0%;
 }
 
 
-.quiz-img {
+/* .quiz-img {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -956,5 +956,5 @@ width: 0%;
     border-color: var(--clr-primary-5);
     color: var(--clr-white);
 
-}
+} */
 
