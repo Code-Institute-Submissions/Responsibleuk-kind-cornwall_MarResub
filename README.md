@@ -1,4 +1,4 @@
-#Kind Cornwall
+# Kind Cornwall
 
 Welcome to Kind Cornwall. We are a social enterprise that believe communities are the most sustainable, resilient and supportive networks. 
 
