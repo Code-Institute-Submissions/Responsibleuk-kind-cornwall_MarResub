@@ -944,18 +944,47 @@ width: 0%;
 .mobile-remove {display: none;}
 }
 
+/* 
+===============
+Form
+===============
+*/
 
-/* .quiz-img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+.form-container {
+  max-width: 40rem;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
 }
 
-.toggle {
-    margin-top: 2rem;
-    background: var(--clr-primary-5);
-    border-color: var(--clr-primary-5);
-    color: var(--clr-white);
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact button[type="submit"] {
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+}
 
-} */
+
+/* 
+=============
+Popup
+=============
+*/
+
+#modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 99999;
+  height: 100%;
+  width: 100%;
+}
 
