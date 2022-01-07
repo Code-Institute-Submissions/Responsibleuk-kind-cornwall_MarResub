@@ -32,7 +32,7 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 ![The Footer](markdown/images/footer.png)
 
-- __The landing page image__
+- __The landing page__
 
   - The landing page includes a hero image, with a countdown timer to the launch of kind cornwall.
   - A scroll down button is included, so users can easily scroll down to the next section.
@@ -40,6 +40,13 @@ This website is for anybody who wants to learn more about sustainability and tak
   - The section also includes a button where people can join kind cornwall.
   - Upon loading 
   
+  - __The community page__
+
+  - The community page includes a hero image, with a description of our community next to a geometric heart which is part of the Kind Cornwall branding.
+  - At the heart of Kind Cornwall is our member community, the feature shows images of peoples faces that represent our community, it is accompanied by a further description.
+  - The final part of page contains four boxes each box contains one of the four benefits of joining our community, knowledge, connections, inspiration and support.
+  - The user is able to click and a pop up will appear with more information about the relevant benefits.
+
   ## Testing 
 
 - __Different Browsers__
@@ -83,6 +90,8 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 - __Content__
 - quotes https://www.shopify.co.uk/blog/motivational-quotes
+- community https://www.huffpost.com/entry/the-5-benefits-of-communi_b_10390826
+
 
 - __Images__
 - Logo created in Canva
