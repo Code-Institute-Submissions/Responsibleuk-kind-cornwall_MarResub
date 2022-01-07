@@ -37,7 +37,8 @@ This website is for anybody who wants to learn more about sustainability and tak
   - The landing page includes a hero image, with a countdown timer to the launch of kind cornwall.
   - A scroll down button is included, so users can easily scroll down to the next section.
   - The next section includes a description of what kind cornwall wants to achieve, with an image of peoples faces next it.
-  - The section also includes a button where people can join kind cornwall."
+  - The section also includes a button where people can join kind cornwall.
+  - Upon loading 
   
   ## Testing 
 
@@ -67,4 +68,23 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 - __Html__
 
+
+# Credits
+- __Code__
+
+- pop up modal home https://codepen.io/ptamaro/pen/YQWMEW
+- scroll down https://codepen.io/tr13ze/pen/VjLLgJ
+- Quiz https://github.com/briancodex/quiz-app-js
+- accordian https://codepen.io/kira-code/pen/vYemdLw
+- multiple modals https://stackoverflow.com/questions/40645032/creating-multiple-modals-on-a-single-page
+- Countdown launch https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s
+- Nav bar https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
+
+
+- __Content__
+- quotes https://www.shopify.co.uk/blog/motivational-quotes
+
+- __Images__
+- Logo created in Canva
+- Circle images created in Canva using this sources https://unsplash.com/collections/0IDxrC-e79c/cornwall
 
