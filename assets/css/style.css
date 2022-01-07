@@ -816,6 +816,126 @@ Cornwall Quiz
   transform: none;
 }
 
+.end-form-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 30rem;
+}
+
+input {
+  margin-bottom: 1rem;
+  width: 20rem;
+  padding: 1.5rem;
+  font-size: 1.8rem;
+  border: none;
+  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+}
+
+input::placeholder {
+  color: #aaa;
+}
+
+#username {
+  margin-bottom: 3rem;
+  width: 100%;
+  outline: none;
+}
+
+#end-text {
+  font-size: 2.4rem;
+  color: #fff;
+  text-align: center;
+}
+
+#saveScoreBtn {
+  border: none;
+}
+
+.fa-home {
+  margin-left: 1rem;
+  font-size: 2rem;
+  color: rgb(28, 26, 26)
+}
+
+#question {
+color: var(--clr-primary-1);
+font-size: 2rem;
+width: 50rem;
+}
+
+.selection-box {
+display: flex;
+margin-bottom: 0.8rem;
+width: 35rem;
+height: 10rem;
+border-radius: 4px;
+background: var(--clr-primary-6);
+font-size: 2rem;
+color: white;
+min-width: 35rem;
+}
+
+.selection-box:hover {
+cursor: pointer;
+box-shadow: var(--light-shadow);
+transform: scale(1.02);
+transform: transform 100ms;
+}
+
+.choice-prefix {
+padding: 1.5rem 2.5rem;
+color: white;
+}
+
+.selection {
+padding: 1.5rem;
+width: 100%;
+}
+
+.correct {
+background: var(--clr-green-dark);
+}
+
+.incorrect {
+background: var(--clr-red-dark);
+}
+
+#hud {
+display: flex;
+justify-content: space-between;
+}
+
+.hud-prefix {
+text-align: center;
+font-size: 2rem;
+}
+
+.hud-main-text {
+text-align: center;
+}
+
+#progressBar {
+width: 50rem;
+height: 3rem;
+border: 0.2rem solid var(--clr-primary-8);
+margin-top: 2rem;
+overflow: hidden;
+}
+
+#progressBarFull {
+height: 100%;
+background: var(--clr-primary-6);
+width: 0%;
+}
+
+@media screen and (max-width: 768px) {
+.choice-container {
+    min-width: 20rem;
+}
+}
+
 
 
 @media screen and (max-width: 1000px) {
