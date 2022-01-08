@@ -38,7 +38,7 @@ Fonts
     --clr-black: hsl(0, 0%, 0%);
     --ff-primary: "Merriweather", sans-serif;
     --ff-secondary: "Open Sans", sans-serif;
-    --transition: all 0.3s linear;
+    --transition: all 0.4s linear;
     --spacing: 0.25rem;
     --radius: 0.5rem;
     --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -1023,7 +1023,6 @@ Reviews
 =============
 */
 
-}
 .review {
   background: var(--clr-white);
   padding: 1.5rem 2rem;
@@ -1051,32 +1050,6 @@ Reviews
   border-radius: 50%;
   position: relative;
 }
-.img-container::after {
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  content: "\f10e";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 2.5rem;
-  height: 2.5rem;
-  display: grid;
-  place-items: center;
-  border-radius: 50%;
-  transform: translateY(25%);
-  background: var(--clr-primary-5);
-  color: var(--clr-white);
-}
-.img-container::before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  background: var(--clr-primary-5);
-  position: absolute;
-  top: -0.25rem;
-  right: -0.5rem;
-  border-radius: 50%;
-}
 #author {
   margin-bottom: 0.25rem;
 }
@@ -1092,7 +1065,7 @@ Reviews
 .prev-btn,
 .next-btn {
   color: var(--clr-primary-7);
-  font-size: 1.25rem;
+  font-size: 5rem;
   background: transparent;
   border-color: transparent;
   margin: 0 0.5rem;
@@ -1103,18 +1076,4 @@ Reviews
 .next-btn:hover {
   color: var(--clr-primary-5);
 }
-.random-btn {
-  margin-top: 0.5rem;
-  background: var(--clr-primary-10);
-  color: var(--clr-primary-5);
-  padding: 0.25rem 0.5rem;
-  text-transform: capitalize;
-  border-radius: var(--radius);
-  transition: var(--transition);
-  border-color: var(--clr-primary-5);
-  cursor: pointer;
-}
-.random-btn:hover {
-  background: var(--clr-primary-5);
-  color: var(--clr-primary-1);
-}
+
