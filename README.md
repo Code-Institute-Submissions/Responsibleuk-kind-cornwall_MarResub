@@ -47,6 +47,10 @@ This website is for anybody who wants to learn more about sustainability and tak
   - The final part of page contains four boxes each box contains one of the four benefits of joining our community, knowledge, connections, inspiration and support.
   - The user is able to click and a pop up will appear with more information about the relevant benefits.
 
+- __The inspire page__
+
+  - A large part of Kind Cornwall is offering inspiration to Cornish business owners.
+
   ## Testing 
 
 - __Different Browsers__
