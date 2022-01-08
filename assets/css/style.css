@@ -1209,7 +1209,7 @@ Form
 */
 
 .form-container {
-  max-width: 30rem;
+  max-width: 25vw;
   width: 100%;
   margin: 0 auto;
   position: relative;
@@ -1226,9 +1226,9 @@ Form
 
 #contact {
   background: #F9F9F9;
-  padding: 25px;
-  margin: 150px 0;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  padding: 1rem;
+  margin: 50px 0;
+  box-shadow: ;
 }
 
 #contact h3 {

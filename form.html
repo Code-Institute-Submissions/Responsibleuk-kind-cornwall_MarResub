@@ -5,23 +5,46 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" type="image/jpg" href="assets/images/logo/kind-cornwall-favicon.jpg">
-  <link rel="stylesheet" href="assets/css/style.css">
+  <meta name="description" content="kind cornwall is a community for cornish lifestyle business owners">
+  <meta name="keywords"
+    content="cornwall, community, business community, cornish business community, lifestyle business">
   <link rel="shortcut icon" type="image/jpg" href="assets/images/logo/favicon.png">
+  <link rel="stylesheet" href="assets/css/style.css">
   <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 
-  <title>Inspiration</title>
+  <title>Join Us</title>
 </head>
 
 <body>
+
+
+  <article id="modalOverlay">
+    <div class="home-modal">
+      <div class="community-modal-header">
+        <div class="modal-header">
+          <div class="close-button">
+            <button id="button" class="close-btn"><i class="fas fa-times"></i></button>
+          </div>
+          <div class="community-modal-body">
+            <h3> Join Kind Cornwall for free</h3>
+            <p>Kind Cornwall helps you shape your business, attract new customers, and progress your personal
+              development as a
+              Cornish business leader. Until we launch on the 25 April we are offering free membership to all businesses
+              in Cornwall.</p>
+            <a class="button-link" href="form.html">Become a member</a>
+            </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
   <header>
     <!-- navigation menu -->
     <nav>
       <div class="nav-center">
-
         <!-- nav header -->
         <div class="nav-header">
-          <img src="assets/images/logo/kind-cornwall-logo.png" class="logo" alt="kind-cornwall-logo" />
+          <img src="assets/images/logo/heart-logo.jpg" class="logo" alt="kind-cornwall-logo" />
           <button class="nav-toggle">
             <i class="fas fa-bars"></i>
           </button>
@@ -29,7 +52,7 @@
         <!-- links -->
         <ul class="menu">
           <li>
-            <a href="index.html">home</a>
+            <a href="index.html" class="active">home</a>
           </li>
           <li>
             <a href="community.html">community</a>
@@ -38,7 +61,7 @@
             <a href="studios.html">studios</a>
           </li>
           <li>
-            <a href="inspire.html" class="active">inspire</a>
+            <a href="inspire.html">inspire</a>
           </li>
           <li>
             <a href="game.html">game</a>
@@ -47,70 +70,83 @@
         <!-- social media -->
         <ul class="social-icons">
           <li>
-            <a href="https://www.twitter.com">
+            <a href="https://www.twitter.com" target="_blank">
               <i class="fab fa-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.twitter.com">
+            <a href="https://www.twitter.com" target="_blank">
               <i class="fab fa-twitter"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.twitter.com">
+            <a href="https://www.twitter.com" target="_blank">
               <i class="fab fa-linkedin"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.twitter.com">
+            <a href="https://www.twitter.com" target="_blank">
               <i class="fab fa-instagram"></i>
             </a>
           </li>
         </ul>
       </div>
     </nav>
+
   </header>
 
-  <div id="hero-image" class="mobile-remove">
-    <section id="hero-image-text-other">
-      <h1>Inspire</h1>
-      <p>We are nurturing a beautiful network of people who care deeply about their business and local community. We
-        want to connect people who will provide each other with inspiration, training and support.</p>
-      <!-- button-->
-      <a onclick="scrollWin()" class="scroll-item-down-other">Find out more</a>
+  <div id="hero-image">
+
+    <!-- scroll down -->
+
+    <section id="hero-image-text" class="mobile-remove">
+      <h1>
+        Kind Cornwall
+      </h1>
+      <h3 class="date">
+        The community for Cornish Lifestyle Businesses.
+      </h3>
+      <div class="launch">
+
+        <div class="launch-format">
+          <div>
+            <h4 class="days">34</h4>
+            <span>days</span>
+          </div>
+        </div>
+
+        <div class="launch-format">
+          <div>
+            <h4 class="hours">34</h4>
+            <span>hours</span>
+          </div>
+        </div>
+
+        <div class="launch-format">
+          <div>
+            <h4 class="minutes">24</h4>
+            <span>mins</span>
+          </div>
+        </div>
+
+        <div class="launch-format">
+          <div>
+            <h4 class="seconds">14</h4>
+            <span>secs</span>
+          </div>
+        </div>
+
+      </div>
+      <a onclick="scrollWin()" class="scroll-item-down">More information</a>
     </section>
   </div>
 
-  <!-- quote -->
+
+
+  <!-- form -->
   <section class="section-center">
+    <div class="home-info">
 
-    <article class="home-img">
-
-      <div id="quote">
-        <h3>“Strength does not come from winning. Your struggles develop your strengths. When you go through hardships
-          and decide not to surrender, that is strength.”</h3>
-        <p>Arnold Schwarzenegger</p>
-      </div>
-
-    </article>
-
-    <article class="home-info">
-      <h2>
-        Get Inspired
-      </h2>
-      <p> When you're frustrated, anxious, or just plain freaking out, these inspirational quotes will quick you a hit
-        of inspiration.
-      </p>
-      <!-- button-->
-      <a class="button-link" onclick="genQuote()">Get Quote</a>
-
-  </section>
-
-
-
-    <section class="section-center">
-      <div class="home-info">
-   
       <form id="contact">
         <h1>Join Kind Cornwall</h1>
         <h4>Tell us about you and your business</h4>
@@ -137,11 +173,22 @@
 
   </section>
 
+  <section class="section-center">
+
+  <article class="home-info">
+    <h2>
+      Get Inspired
+    </h2>
+    <p> When you're frustrated, anxious, or just plain freaking out, these inspirational quotes will quick you a hit
+      of inspiration.
+    </p>
+    <!-- button-->
+    <a class="button-link" onclick="genQuote()">Get Quote</a>
+  </article>
   <picture class="home-img">
-    <img src="assets/images/community/community.png"
-      alt="three-circular-images-of-friends" />
+    <img src="assets/images/community/community.png" alt="three-circular-images-of-friends" />
   </picture>
-</section>
+  </section>
 
 
 
@@ -154,12 +201,12 @@
     </section>
   </footer>
 
- 
+
   <script src="assets/script/popup.js"></script>
   <script src="assets/script/nav.js"></script>
   <script src="assets/script/scroll.js"></script>
   <script src="assets/script/launch.js"></script>
-  
+
 
 </body>
 
