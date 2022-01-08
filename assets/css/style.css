@@ -338,7 +338,7 @@ Countdown Timer
 */
 
 .home-img {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .home-info h3 {
@@ -352,7 +352,7 @@ Countdown Timer
 
 .date {
   color: var(--clr-grey-5);
-  font-size: 0.85rem;
+  font-size: 1.1rem;
 }
 
 @media screen and (min-width: 992px) {
