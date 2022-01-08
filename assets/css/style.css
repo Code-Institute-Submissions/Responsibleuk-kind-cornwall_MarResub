@@ -328,7 +328,13 @@ Hero Image
 }
 
 
-
+#hero-image-text-other {
+  text-align: center;
+  width: 40rem;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  padding-left: 15rem;
+}
 
 
 /*
@@ -558,9 +564,25 @@ Button
   margin-top: 2rem;
   margin-left: 3rem;
   width: 75%;
-  
   }
 
+  .scroll-item-down-other {
+    background-color: var(--clr-magenta);
+    border-radius: 9999px;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.125em;
+    padding: calc(0.667em + 2px) calc(1.333em + 2px);
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    word-break: break-word;
+    margin-top: 2rem;
+    width: 75%;
+    } 
 /*
 =============== 
 Studio accordian
