@@ -81,12 +81,14 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 
 # Credits
+- __Overall theme__
+- The overall style was inspire by https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
+-  inspiration was taken from https://kind.community/
+
+
 - __Code__
+
 - favicon created in Canva
-
-
-- __Code__
-
 - pop up modal home https://codepen.io/ptamaro/pen/YQWMEW
 - scroll down https://codepen.io/tr13ze/pen/VjLLgJ
 - Quiz https://github.com/briancodex/quiz-app-js
