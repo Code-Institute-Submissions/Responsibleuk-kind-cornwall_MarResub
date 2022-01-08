@@ -82,6 +82,10 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 # Credits
 - __Code__
+- favicon created in Canva
+
+
+- __Code__
 
 - pop up modal home https://codepen.io/ptamaro/pen/YQWMEW
 - scroll down https://codepen.io/tr13ze/pen/VjLLgJ
