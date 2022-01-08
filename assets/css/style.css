@@ -1150,6 +1150,7 @@ About
   border-radius: var(--radius);
   display: grid;
   grid-template-rows: auto 1fr;
+  box-shadow: var(--light-shadow);
 }
 .btn-container {
   border-top-left-radius: var(--radius);
