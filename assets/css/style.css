@@ -1256,24 +1256,10 @@ Form
 }
 
 #contact {
-  background: #F9F9F9;
+  background: var(--clr-white);
   padding: 1rem;
   margin: 50px 0;
   box-shadow: var(--light-shadow);
-}
-
-#contact h3 {
-  display: block;
-  font-size: 30px;
-  font-weight: 300;
-  margin-bottom: 10px;
-}
-
-#contact h4 {
-  margin: 5px 0 15px;
-  display: block;
-  font-size: 13px;
-  font-weight: 400;
 }
 
 fieldset {
@@ -1296,16 +1282,7 @@ fieldset {
   padding: 10px;
 }
 
-#contact input[type="text"]:hover,
-#contact input[type="email"]:hover,
-#contact input[type="tel"]:hover,
-#contact input[type="url"]:hover,
-#contact textarea:hover {
-  -webkit-transition: border-color 0.3s ease-in-out;
-  -moz-transition: border-color 0.3s ease-in-out;
-  transition: border-color 0.3s ease-in-out;
-  border: 1px solid #aaa;
-}
+
 
 #contact textarea {
   height: 100px;
