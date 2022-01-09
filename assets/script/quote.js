@@ -1,10 +1,7 @@
-/* jshint esversion: 8 */
-
 function genQuote() {
-    
-var randNum = Math.floor(Math.random() * 11) + 1;
-document.getElementById('quote').innerHTML = quotes[randNum]; 
-    
+    var randNum = Math.floor(Math.random() * 11) + 1;
+    document.getElementById('quote').innerHTML = quotes[randNum]; 
+}
 var quotes = ["Blank", 
 
 "\"It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.\"<br> Rocky Balboa", 
