@@ -76,4 +76,3 @@ const reviews = [
     showPerson(currentItem);
   });
   
-  

@@ -12,7 +12,7 @@
 
  - There were no problems when testing on Mozilla.
 
- - ![Mozilla First Test](markdown/images)
+ - ![Mozilla First Test](markdown/images/s)
 
  - ![Mozilla Second Test](markdown/image)
 
