@@ -1006,18 +1006,6 @@ background: var(--clr-primary-8);
 width: 0%;
 }
 
-@media screen and (max-width: 768px) {
-.choice-container {
-    min-width: 20rem;
-}
-}
-
-
-
-@media screen and (max-width: 1000px) {
-  
-.mobile-remove {display: none;}
-}
 
 /* 
 ===============
@@ -1201,6 +1189,15 @@ hero responsive
 =============
 */
 
+@media screen and (max-width: 768px) {
+  .choice-container {
+      min-width: 20rem;
+  }
+  }
+  
+@media screen and (max-width: 1000px) {
+    .mobile-remove {display: none;}
+}
 
 /*
 =============== 
