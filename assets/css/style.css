@@ -671,13 +671,6 @@ Community section
 	padding-top: 1rem;
 }
 
-.flex-item h4 {
-	padding-top: 1rem;
-	size: 2rem;
-	text-transform: uppercase;
-	size-adjust: 150%;
-}
-
 .modal-btn {
 	margin-top: 2rem;
 	background: var(--clr-primary-5);
