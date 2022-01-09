@@ -930,8 +930,9 @@ font-size: 2rem;
 width: 50rem;
 }
 
-.selection-section { 
-margin-bottom: 0.8rem;
+.selection-section {
+
+margin-bottom: 1.2rem;
 padding-left: 30vw;
 padding-right: 30vw;
 width: 100%;
@@ -942,9 +943,9 @@ background: white;
 .selection-box {
 display: flex;
 margin-bottom: 0.8rem;
-width: 40v;
-height: 5rem;
-border-radius: 4px;
+width: 40vw;
+height: 15vh;
+
 background: var(--clr-primary-6);
 font-size: 2rem;
 color: white;
@@ -964,7 +965,7 @@ color: white;
 }
 
 .selection {
-padding: 1.5rem;
+padding: .5rem;
 width: 100%;
 }
 
