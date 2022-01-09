@@ -161,13 +161,13 @@ incrementScore = num => {
     scoreText.innerText = score;
 };
 
-startGame()
+startGame();
 
 
-// const username = document.querySelector('#username')
-const saveScoreBtn = document.querySelector('#saveScoreBtn')
-// const finalScore = document.querySelector('#finalScore')
-const mostRecentScore = localStorage.getItem('mostRecentScore')
+// const username = document.querySelector('#username');
+const saveScoreBtn = document.querySelector('#saveScoreBtn');
+// const finalScore = document.querySelector('#finalScore');
+const mostRecentScore = localStorage.getItem('mostRecentScore');
 
 
 // finalScore.innerText = mostRecentScore
@@ -177,23 +177,23 @@ const mostRecentScore = localStorage.getItem('mostRecentScore')
 // })
 
 saveHighScore = e => {
-    e.preventDefault()
+    e.preventDefault();
 
     const score = {
         score: mostRecentScore,
         name: username.value
-    }
+    };
 
-    highScores.push(score)
+    highScores.push(score);
 
     highScores.sort((a,b) => {
-        return b.score - a.score
-    })
+        return b.score - a.score;
+    });
 
-    highScores.splice(5)
+    highScores.splice(5);
 
-    localStorage.setItem('highScores', JSON.stringify(highScores))
-    window.location.assign('/')
+    localStorage.setItem('highScores', JSON.stringify(highScores));
+    window.location.assign('/');
 
     
-}
+};
