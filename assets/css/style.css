@@ -1251,7 +1251,7 @@ Form
 	width: 100%;
 	margin: 0 auto;
 	position: relative;
-  box-shadow: var(--light-shadow);;
+  box-shadow: var(--light-shadow);
 }
 
 fieldset {
