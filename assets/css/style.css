@@ -1246,14 +1246,6 @@ Form
 ===============
 */
 
-.form-container {
-	max-width: 50vw;
-	width: 100%;
-	margin: 0 auto;
-	position: relative;
-  box-shadow: var(--light-shadow);
-}
-
 fieldset {
 	border: medium none !important;
 	margin: 0 0 10px;
