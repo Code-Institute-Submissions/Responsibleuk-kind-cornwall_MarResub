@@ -163,14 +163,15 @@ incrementScore = num => {
 
 startGame();
 
+
 const mostRecentScore = localStorage.getItem('mostRecentScore');
+
 
 saveHighScore = e => {
     e.preventDefault();
 
     const score = {
         score: mostRecentScore,
-        name: username.value
     };
 
     highScores.push(score);
