@@ -10,13 +10,9 @@ const MAX_HIGH_SCORES = 100;
 
 finalScore.innerText = mostRecentScore;
 
-
-saveHighScore = e => {
-    e.preventDefault();
-
     const score = {
         score: mostRecentScore,
-        name: username.value
+        
     };
 
     highScores.push(score);
