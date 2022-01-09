@@ -40,12 +40,18 @@ This website is for anybody who wants to learn more about sustainability and tak
   - The section also includes a button where people can join kind cornwall.
   - Upon loading 
   
-  - __The community page__
+- __The community page__
 
   - The community page includes a hero image, with a description of our community next to a geometric heart which is part of the Kind Cornwall branding.
   - At the heart of Kind Cornwall is our member community, the feature shows images of peoples faces that represent our community, it is accompanied by a further description.
   - The final part of page contains four boxes each box contains one of the four benefits of joining our community, knowledge, connections, inspiration and support.
   - The user is able to click and a pop up will appear with more information about the relevant benefits.
+
+- __The studios page__
+
+  - In addition to being a community for local business owners, Kind Cornwall offers services to local businesses to help them succeed we call these studios.
+  - The studios page has a hero image with a button to scroll down to the main page content.
+  - The main content includes images in circles to inkeep with our branding and to the right we have expanding accordians where the user can find out more about the services we offer.
 
 - __The inspire page__
 
