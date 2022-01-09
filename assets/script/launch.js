@@ -1,3 +1,4 @@
+/* jshint esversion: 8 */
 // Countdown
 
 const countdownDescription = document.querySelector ('section-center');

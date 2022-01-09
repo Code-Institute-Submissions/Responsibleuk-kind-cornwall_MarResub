@@ -1,3 +1,5 @@
+/* jshint esversion: 8 */
+
 var btnScrollDown = document.querySelector('.scroll-item-down');
 
 function scrollWin() {

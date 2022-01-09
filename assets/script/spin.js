@@ -1,3 +1,5 @@
+/* jshint esversion: 8 */
+
 var rocket = document.querySelector('.quiz-img');
 var btn = document.querySelector('.toggle');
 var rotate = false;

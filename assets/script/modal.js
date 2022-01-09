@@ -1,3 +1,5 @@
+/* jshint esversion: 8 */
+
 (() => {
     const modalBtns = Array.from(document.querySelectorAll(".otherPages"));
     modalBtns.forEach(btn => {

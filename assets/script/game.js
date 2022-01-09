@@ -1,3 +1,5 @@
+/* jshint esversion: 8 */
+
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.selection'));
 const progressText = document.querySelector('#progressText');
