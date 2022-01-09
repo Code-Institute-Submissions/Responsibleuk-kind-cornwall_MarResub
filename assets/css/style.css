@@ -967,8 +967,8 @@ input::placeholder {
 .selection-box:hover {
 	cursor: pointer;
 	box-shadow: var(--light-shadow);
-	transform: scale(1.02);
-	transform: transform 100ms;
+	transform: none;
+
 }
 
 .choice-prefix {
