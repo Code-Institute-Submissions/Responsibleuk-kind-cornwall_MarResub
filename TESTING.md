@@ -10,13 +10,9 @@
 
 - __Mozilla__
 
- - Carousel works perfectly but looks different in Mozilla, it is alingned to the left rather than center as it is in other browsers.
+ - There were no problems when testing on Mozilla.
 
- - ![Carousel Mozilla]()
-
- - There were no additional problems when testing on Mozilla.
-
- - ![Mozilla First Test](markdown)
+ - ![Mozilla First Test](markdown/images)
 
  - ![Mozilla Second Test](markdown/image)
 
@@ -26,17 +22,17 @@
 
 - __Edge__
 
- - There were no errors when testing on edge.
+ - There were no problems when testing on edge.
 
- - ![First Edge Test](markdown/images/edge-test-1.jpg)
+ - ![First Edge Test](markdown/images/test-edge/Screenshot 2022-01-09 at 22.08.04.jpg)
 
- - ![Second Edge Test](markdown/images/edge-test-2.jpg)
+ - ![Second Edge Test](markdown/images/test-edge/Screenshot 2022-01-09 at 22.08.08.jpg)
 
- - ![Third Edge Test](markdown/images/edge-test-3.jpg)
+ - ![Third Edge Test](markdown/images/)
 
 - __Footer__
 
- - You are not able to click join unless you enter your email address.
+ - Footer is responsive and works in all browsers.
 
  - ![Footer Test]()
 
