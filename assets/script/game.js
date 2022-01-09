@@ -170,7 +170,7 @@ saveHighScore = e => {
 
     const score = {
         score: mostRecentScore,
-        name: username.value
+        // name: username.value
     };
 
     highScores.push(score);
