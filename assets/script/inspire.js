@@ -1,6 +1,7 @@
 /* jshint esversion: 8 */
 
 // local reviews data
+
 const reviews = [
     {
       id: 1,
