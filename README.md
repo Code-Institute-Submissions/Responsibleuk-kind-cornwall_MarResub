@@ -106,6 +106,7 @@ This website is for anybody who wants to learn more about sustainability and tak
  - The overall style was inspire by https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
  - inspiration was taken from https://kind.community/
  - responsive image http://ami.responsivedesign.is/
+ - favicon created in Canva
 
 - __Images__
  - The imaages have been created in canva using open source images from unsplash
@@ -114,12 +115,11 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 
 - __Code__
-
- - favicon created in Canva
+ - In completing this website I wartched many tutorials and read many articles on javascript. My code has been influenced from the following sources.
  - pop up modal home https://codepen.io/ptamaro/pen/YQWMEW
  - scroll down https://codepen.io/tr13ze/pen/VjLLgJ
  - Quiz https://github.com/briancodex/quiz-app-js
- - accordian https://codepen.io/kira-code/pen/vYemdLw
+ - accordians on studio page https://codepen.io/kira-code/pen/vYemdLw
  - multiple modals https://stackoverflow.com/questions/40645032/creating-multiple-modals-on-a-single-page
  - Countdown launch https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s
  - Nav bar https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel

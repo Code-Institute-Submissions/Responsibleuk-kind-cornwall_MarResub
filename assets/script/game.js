@@ -1,4 +1,6 @@
 /* jshint esversion: 8 */
+
+// see readme for credit
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.selection'));
 const progressText = document.querySelector('#progressText');
@@ -9,6 +11,8 @@ let acceptingAnswers = true;
 let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
+
+// questions
 let questions = [
     {
         question: "What are the big plant Geodomes in Cornwall called?",
@@ -91,6 +95,8 @@ let questions = [
         answer: 3,
     },
 ];
+
+// score
 const SCORE_POINTS = 10;
 const MAX_QUESTIONS = 10;
 startGame = () => {
@@ -142,17 +148,12 @@ incrementScore = num => {
 startGame();
 
 
-// const username = document.querySelector('#username')
+
 const saveScoreBtn = document.querySelector('#saveScoreBtn');
-// const finalScore = document.querySelector('#finalScore')
+
 const mostRecentScore = localStorage.getItem('mostRecentScore');
 
 
-// finalScore.innerText = mostRecentScore
-
-// username.addEventListener('keyup', () => {
-//     saveScoreBtn.disabled = !username.value
-// })
 
 saveHighScore = e => {
     e.preventDefault();
