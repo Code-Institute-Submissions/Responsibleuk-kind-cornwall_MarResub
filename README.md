@@ -30,8 +30,6 @@ This website is for anybody who wants to learn more about sustainability and tak
   - The footer is valuable to the user as they will be able to register for our weekly newsletter on how to be more sustainable.
   - The email address has to entered before the user can click join.
 
-![The Footer](markdown/images/footer.png)
-
 - __The landing page__
 
   - The landing page includes a hero image, with a countdown timer to the launch of kind cornwall.
@@ -39,6 +37,12 @@ This website is for anybody who wants to learn more about sustainability and tak
   - The next section includes a description of what kind cornwall wants to achieve, with an image of peoples faces next it.
   - The section also includes a button where people can join kind cornwall.
   - Upon loading 
+
+ - ![First Home Image](markdown/images/test-chrome/home-test.jpg)
+
+ - ![Second Home Image](markdown/images/test-chrome/home-test-2.jpg)
+
+ - ![Third Home Image](markdown/images/test-chrome/home-test-3.jpg)
   
 - __The community page__
 
@@ -47,44 +51,53 @@ This website is for anybody who wants to learn more about sustainability and tak
   - The final part of page contains four boxes each box contains one of the four benefits of joining our community, knowledge, connections, inspiration and support.
   - The user is able to click and a pop up will appear with more information about the relevant benefits.
 
+  - ![First Community Image](markdown/images/test-chrome/community-test-1.png)
+
+  - ![Second Community Image](markdown/images/test-chrome/community-test-12.png)
+
+  - ![Third Community Image](markdown/images/test-chrome/community-test-3.png)
+
 - __The studios page__
 
   - In addition to being a community for local business owners, Kind Cornwall offers services to local businesses to help them succeed we call these studios.
   - The studios page has a hero image with a button to scroll down to the main page content.
   - The main content includes images in circles to inkeep with our branding and to the right we have expanding accordians where the user can find out more about the services we offer.
 
+  - ![First Studio Image](markdown/images/test-chrome/studios-hero.jpg)
+
+  - ![Second Studio Image](markdown/images/test-chrome/studios-main.jpg)
+
+- __The game page__
+
+  - A large part of Kind Cornwall is offering services to our community.
+  - This page contains several accordians where the user can click and find out more information about what services Kind Cornwall provide"
+
+
+
 - __The inspire page__
 
   - A large part of Kind Cornwall is offering inspiration to Cornish business owners.
+  - The user will be able to click to generate a random inspirational quote.
 
-  ## Testing 
+  - ![First Inspire Image](markdown/images/test-chrome/home-test.jpg)
 
-- __Different Browsers__
+- __The game page__
 
- - The site tests well on different browsers.
+  - Users love interactional content, so we have included a simple multiple choice quiz about Cornwall
 
-- __Chrome__
+   - ![First Game Image](markdown/images/test-chrome/question-test-1.jpg)
 
- - All previous screenshots in this document have been taken from Chrome.
+   - ![Second Game Image](markdown/images/test-chrome/question-test-12.jpg)
 
-- __Mozilla__
+   - ![Third Game Image](markdown/images/test-chrome/question-test-3.jpg)
 
+   - ![Fourth Game Image](markdown/images/test-chrome/question-test-4.jpg)
 
-- __Edge__
+   - ![FifthGame Image](markdown/images/test-chrome/question-test-5.jpg)
 
+   - ![Sixth Game Image](markdown/images/test-chrome/question-test-6.jpg)
 
-- __Footer__
-
-
-
-- __Responsiveness__
-
-
-
-### Validator Testing 
-
-- __Html__
-
+   - ![Seventh Game Image](markdown/images/test-chrome/question-test-7.jpg)
 
 # Credits
 - __Overall theme__
