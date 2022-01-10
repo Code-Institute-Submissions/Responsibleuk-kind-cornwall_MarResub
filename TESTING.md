@@ -80,11 +80,30 @@
 
 
 - __CSS__
-
+ 
   - no errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
  - ![CSS Validator Testing](markdown/verification/screenshot-css-test.png)
 
+
+- __Script__
+
+ - ![First Script Validation Image](markdown/images/js/nav-val.png)
+
+ - ![Second Script Validation Image](markdown/images/js/launch-val.png)
+
+ - ![Third Script Validation Image](markdown/images/js/popup-val.png)
+
+ - ![Fourth Script Validation Image](markdown/images/js/studio-val.png)
+
+ - ![Fifth Script Validation Image](markdown/images/js/game.jpg)
+
+ - ![Sixth Script Validation Image](markdown/images/js/end.jpg)
+
+ - ![Seventh Script Validation Image](markdown/images/js/modal-val.png)
+
+
+
 ### Unfixed Bugs
 
-No bugs unfixed
+ - 6 undefined variables
