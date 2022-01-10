@@ -1,5 +1,7 @@
 # Kind Cornwall
 
+- ![Am I responsive Image](markdown/response.jpg)
+
 Welcome to Kind Cornwall. We are a social enterprise that believe communities are the most sustainable, resilient and supportive networks. 
 
 Communities evolve into the spaces around them, and are united by a common goal. Our goal is to create a thriving economy in Cornwall populated by independent creative local businesses.
@@ -101,28 +103,31 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 # Credits
 - __Overall theme__
-- The overall style was inspire by https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
--  inspiration was taken from https://kind.community/
+ - The overall style was inspire by https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
+ - inspiration was taken from https://kind.community/
+ - responsive image http://ami.responsivedesign.is/
+
+- __Images__
+ - The imaages have been created in canva using open source images from unsplash
+ - All the images used have been stored in this folder https://unsplash.com/collections/0IDxrC-e79c/cornwall
+ - Logo created in Canva
 
 
 - __Code__
 
-- favicon created in Canva
-- pop up modal home https://codepen.io/ptamaro/pen/YQWMEW
-- scroll down https://codepen.io/tr13ze/pen/VjLLgJ
-- Quiz https://github.com/briancodex/quiz-app-js
-- accordian https://codepen.io/kira-code/pen/vYemdLw
-- multiple modals https://stackoverflow.com/questions/40645032/creating-multiple-modals-on-a-single-page
-- Countdown launch https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s
-- Nav bar https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
+ - favicon created in Canva
+ - pop up modal home https://codepen.io/ptamaro/pen/YQWMEW
+ - scroll down https://codepen.io/tr13ze/pen/VjLLgJ
+ - Quiz https://github.com/briancodex/quiz-app-js
+ - accordian https://codepen.io/kira-code/pen/vYemdLw
+ - multiple modals https://stackoverflow.com/questions/40645032/creating-multiple-modals-on-a-single-page
+ - Countdown launch https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s
+ - Nav bar https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
 
 
 - __Content__
-- quotes https://www.shopify.co.uk/blog/motivational-quotes
-- community https://www.huffpost.com/entry/the-5-benefits-of-communi_b_10390826
+ - quotes https://www.shopify.co.uk/blog/motivational-quotes
+ - community https://www.huffpost.com/entry/the-5-benefits-of-communi_b_10390826
 
 
-- __Images__
-- Logo created in Canva
-- Circle images created in Canva using this sources https://unsplash.com/collections/0IDxrC-e79c/cornwall
 
