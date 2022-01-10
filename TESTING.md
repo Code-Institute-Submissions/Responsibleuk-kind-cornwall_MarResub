@@ -6,68 +6,85 @@
 
 - __Chrome__
 
- - All previous screenshots in this document have been taken from Chrome.
+ - All screenshots in README have been taken from Chrome.
 
 - __Mozilla__
 
- - There were no problems when testing on Mozilla.
+ - ![Mozilla First Test](markdown/images/test-mozilla/screenshot-m1.jpg)
 
- - ![Mozilla First Test](markdown/images/s)
+ - ![Mozilla Second Test](markdown/images/test-mozilla/screenshot-m2.jpg)
 
- - ![Mozilla Second Test](markdown/image)
+ - ![Mozilla Third Test](markdown/images/test-mozilla/screenshot-m3.jpg)
 
- - ![Mozilla Third Test](markdo)
+ - ![Mozilla Fourth Test](markdown/images/test-mozilla/screenshot-m4.jpg)
 
- - ![Mozilla Fourth Test](markdo)
+ - ![Mozilla Fifth Test](markdown/images/test-mozilla/screenshot-m5.jpg)
+
+ - ![Mozilla Six Test](markdown/images/test-mozilla/screenshot-m6.jpg)
+
+ - ![Mozilla Seventh Test](markdown/images/test-mozilla/screenshot-m7.jpg)
 
 - __Edge__
 
- - There were no problems when testing on edge.
+ - There were no errors when testing on edge.
 
- - ![First Edge Test](markdown/images/test-edge/Screenshot 2022-01-09 at 22.08.04.jpg)
+ - ![First Edge Test](markdown/images/test-mozilla/screenshot-e1.jpg)
 
- - ![Second Edge Test](markdown/images/test-edge/Screenshot 2022-01-09 at 22.08.08.jpg)
+ - ![Second Edge Test](markdown/images/test-mozilla/screenshot-e1.jpg)
 
- - ![Third Edge Test](markdown/images/)
+ - ![Third Edge Test](markdown/images/test-mozilla/screenshot-e1.jpg)
 
-- __Footer__
+ - ![Fourth Edge Test](markdown/images/test-mozilla/screenshot-e1.jpg)
 
- - Footer is responsive and works in all browsers.
+ - ![Fifth Edge Test](markdown/images/test-mozilla/screenshot-e1.jpg)
 
- - ![Footer Test]()
+ - ![Sixth Edge Test](markdown/images/test-mozilla/screenshot-e1.jpg)
+
+ - ![Seventh Edge Test](mmarkdown/images/test-mozilla/screenshot-e1.jpg)
 
 - __Responsiveness__
 
  - The site is responsive and reads well on all devices and browsers.
 
- - This image shows the site minimised on Chrome, Edge and Mozilla.
+ - These images shows the site minimised on Chrome, Edge and Mozilla.
 
- - ![Responsiveness Image]()
+ - ![First Responsiveness Image](markdown/images/test-responsive/screenshot1.jpg)
+
+ - ![First Responsiveness Image](markdown/images/test-responsive/screenshot2.jpg)
+
+ - ![First Responsiveness Image](markdown/images/test-responsive/screenshot3.jpg)
+
+ - ![First Responsiveness Image](markdown/images/test-responsive/screenshot4.jpg)
+
+ - ![First Responsiveness Image](markdown/images/test-responsive/screenshot5.jpg)
 
 ### Validator Testing 
 
 - __Html__
+
+ - ![Index Validation Image](markdown/images/validation/index-val.png)
+ 
+ - ![Community Validation Image](markdown/images/validation/community-val.png)
+
+ - ![Studios Validation Image](markdown/images/validation/studio-val.png)
+
+ - ![Inspire Validation Image](markdown/images/validation/inspire-val.png)
+
+ - ![Game Validation Image](markdown/images/validation/game-val.png)
+
+ - ![End Validation Image](markdown/images/validation/end-val.png)
+
+ - ![Form Validation Image](markdown/images/validation/form-val.png)
 
 
 
 
 - __CSS__
 
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - no errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
  - ![CSS Validator Testing](markdown/verification/screenshot-css-test.png)
 
 ### Unfixed Bugs
 
 No bugs unfixed
-
-## Deployment
-
-The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the [GitHub repository](https://github.com/Responsibleuk/kind-cornwall), navigate to the Settings tab 
-  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
-  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-The live link can be found [here](https://responsibleuk.github.io/kind-cornwall/index.html)
-
-## Local Deployment
