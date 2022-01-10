@@ -975,11 +975,6 @@ input::placeholder {
 
 @media screen and (max-width: 768px) {
 
-	#question {
-		color: var(--clr-primary-1);
-		font-size: .5rem;
-	}
-
 	.selection-section {
 		margin-bottom: 1.2rem;
 		padding-left: 0vw;
@@ -1329,4 +1324,5 @@ fieldset {
 
 :-ms-input-placeholder {
 	color: #888;
+}
 }
