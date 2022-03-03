@@ -105,6 +105,8 @@ startGame = () => {
     availableQuestions = [...questions];
     getNewQuestion();
 };
+
+// next question
 getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
@@ -123,6 +125,8 @@ getNewQuestion = () => {
     availableQuestions.splice(questionsIndex, 1);
     acceptingAnswers = true;
 };
+
+// Choice
 choices.forEach(choice => {
     choice.addEventListener('click', e => {
         if (!acceptingAnswers) return;
