@@ -10,9 +10,39 @@ Kind Cornwall is a community of Cornish business owners bonded by kindness towar
 
 Kind Cornwall helps you shape your business, attract new customers, and progress your personal development. 
 
-## Features 
+## Design
 
-This website is for anybody who wants to learn more about sustainability and take action to making our planet more sustainable.
+# Strategy
+
+-Kind Cornwall is an ambitious project, we are trying to build a community for local businesses and create an activity finder, that visitors to Cornwall and Locals can use to find everything from Art Classes to Zip-line rides.
+
+- Building an activity finder is a challenge, before you can launch you need stock i.e. experience led businesses upload there diary to the platform. Our strategy is first to build a community where local business owners can learn from each other but we will also services like web design or marketing support at very affordable prices.
+
+# Scope
+- To begin with this site is to inform and inspire people into registering their interest in joining Kind Cornwall, we have included a quiz to increase engagement with our users.
+ - After launch the people that have registered will be invited to formally register and the site will be updated with a form so new visitors will be able to apply for membership.
+- Members will be given access to a private slack channel, we are partnering with booking app fibodo so users that offer experience will be given free access so they can upload their diary take booking and get paid through the app.
+- We will then aggregate the date and create the activity finder. This will be a new website Experience Cornwall.
+
+# Structure
+
+- The site will be easily navigated with a reactive Nav Bar,
+- Will will use modal, and accordions so the user can access more information but the site remains text light.
+- The site will include interactive quiz
+
+
+# Skeleton
+Upload wireframes
+
+
+
+# Surface
+- We want the site to be simple and clean, it will be predominately white and call to actions will be bright colours to get the users attention. 
+- We are using a collection of circular images containing people to represent members. Or activities to represent the experience finder.
+- The circular images will be a consistent design theme through the site.
+- Information displayed in a way that makes the user keep reading, we will use minimal text so users can navigate the site quickly.
+
+
 
 ### Existing Features
 
@@ -103,14 +133,13 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 ### Features Left to Implement
 
-## Testing 
 
 ## Testing 
 
 
 - __Different Browsers__
 
- - The site tests well on different browsers, I noticed one difference on Mozilla, see below.
+ - The site tests well on different browsers.
 
 - __Chrome__
 
@@ -118,7 +147,7 @@ This website is for anybody who wants to learn more about sustainability and tak
 
 - __Mozilla__
 
- - 
+ - There were no errors when testing on Mozilla.
 
 
 - __Edge__
