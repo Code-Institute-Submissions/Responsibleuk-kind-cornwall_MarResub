@@ -42,6 +42,18 @@ Kind Cornwall helps you shape your business, attract new customers, and progress
 - The circular images will be a consistent design theme through the site.
 - Information displayed in a way that makes the user keep reading, we will use minimal text so users can navigate the site quickly.
 
+## User Story
+
+- Kate runs a small yoga studio in Cornwall, she is an excellent yogi but running a small business is lonely, she is looking for a community where she bounce ideas off other business owners in Cornwall, vent frustrations find people to collaborate with other lifestyle business owners.
+
+- Kate came across our quiz when searching on social media and she was hooked. She read went to our home page and discovered exactly what she was looking for.
+
+- “Our strengths may be someone else’s weaknesses and this is beauty of being part of a community. Being part of a shared space, whether physical or virtual, gives people the chance to be inspired, solve problems, share humour, vent their frustrations and share their failures and successes. Welcome to Kind Cornwall.”
+
+- She navigated through the site, and also discovered that she could get help to make her small business even better.
+
+- She signed up, and can’t wait for the launch.
+
 
 
 ## Existing Features
