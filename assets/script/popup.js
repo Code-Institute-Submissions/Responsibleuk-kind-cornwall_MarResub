@@ -1,5 +1,6 @@
 /* jshint esversion: 8 */
 
+// creates popup
 window.onload = function() {
   document.getElementById('button').onclick = function() {
     document.getElementById('modalOverlay').style.display = 'none';

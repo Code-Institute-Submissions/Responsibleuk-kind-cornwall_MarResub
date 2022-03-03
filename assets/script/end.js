@@ -5,6 +5,7 @@ const finalScore = document.querySelector('#finalScore');
 const mostRecentScore = localStorage.getItem('mostRecentScore');
 
 // see readme for credit
+// tells users their final score
 const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
 
 const MAX_HIGH_SCORES = 100;
