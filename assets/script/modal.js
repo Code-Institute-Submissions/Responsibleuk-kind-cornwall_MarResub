@@ -1,5 +1,6 @@
 /* jshint esversion: 8 */
 
+// Creates a popup window that has more text
 (() => {
   const modalBtns = Array.from(document.querySelectorAll(".otherPages"));
   modalBtns.forEach(btn => {
@@ -10,6 +11,8 @@
     };
   });
   
+
+  // close button
   const closeBtns = Array.from(document.querySelectorAll(".close-button"));
   closeBtns.forEach(btn => {
     btn.onclick = function() {
