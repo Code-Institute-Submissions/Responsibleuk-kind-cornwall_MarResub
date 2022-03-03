@@ -62,13 +62,14 @@ function getRemaindingTime() {
   const oneHour = 60 * 60 * 1000;
   const oneMinute = 60 * 1000;
 
-// This section calculates the values for seconds, minutes, hours and days
+  // This section calculates the values for seconds, minutes, hours and days
   let days = t / oneDay;
   days = Math.floor(days);
   let hours = Math.floor((t % oneDay) / oneHour);
   let minutes = Math.floor((t % oneHour) / oneMinute);
   let seconds = Math.floor((t % oneMinute) / 1000);
 
+  // Set values array
   const values = [days, hours, minutes, seconds];
   function format(item) {
     if (item < 10) {
