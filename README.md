@@ -101,6 +101,65 @@ This website is for anybody who wants to learn more about sustainability and tak
 
    - ![Seventh Game Image](markdown/images/test-chrome/question-test-7.jpg)
 
+### Features Left to Implement
+
+## Testing 
+
+## Testing 
+
+
+- __Different Browsers__
+
+ - The site tests well on different browsers, I noticed one difference on Mozilla, see below.
+
+- __Chrome__
+
+ - All previous screenshots in this document have been taken from Chrome.
+
+- __Mozilla__
+
+ - 
+
+
+- __Edge__
+
+ - There were no errors when testing on edge.
+
+
+
+- __Footer__
+
+ - You are not able to click join unless you enter your email address.
+
+ - 
+
+- __Responsiveness__
+
+ - The site is responsive and reads well on all devices and browsers.
+
+ - This image shows the site minimised on Chrome, Edge and Mozilla.
+
+ - ![Responsiveness Image](
+
+### Validator Testing 
+
+### Unfixed Bugs
+
+No bugs unfixed
+
+## Deployment
+
+## Local Deployment
+
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/Responsibleuk/kind-cornwall.git`
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Responsibleuk/kind-cornwall)
+
+
 # Credits
 - __Overall theme__
  - The overall style was inspire by https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
