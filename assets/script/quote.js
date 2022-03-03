@@ -1,3 +1,7 @@
+/* jshint esversion: 8 */
+
+// Random quote generator
+
 function genQuote() {
     var randNum = Math.floor(Math.random() * 11) + 1;
     document.getElementById('quote').innerHTML = quotes[randNum]; 
