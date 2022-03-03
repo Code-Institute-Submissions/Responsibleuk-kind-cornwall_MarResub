@@ -1,6 +1,6 @@
 # Kind Cornwall
 
-- ![Am I responsive Image](markdown/response.jpg)
+- ![Am I responsive Image](markdown/response.png)
 
 Welcome to Kind Cornwall. We are a social enterprise that believe communities are the most sustainable, resilient and supportive networks. 
 
