@@ -12,31 +12,31 @@ Kind Cornwall helps you shape your business, attract new customers, and progress
 
 ## Design
 
-# Strategy
+### Strategy
 
--Kind Cornwall is an ambitious project, we are trying to build a community for local businesses and create an activity finder, that visitors to Cornwall and Locals can use to find everything from Art Classes to Zip-line rides.
+- Kind Cornwall is an ambitious project, we are trying to build a community for local businesses and create an activity finder, that visitors to Cornwall and Locals can use to find everything from Art Classes to Zip-line rides.
 
 - Building an activity finder is a challenge, before you can launch you need stock i.e. experience led businesses upload there diary to the platform. Our strategy is first to build a community where local business owners can learn from each other but we will also services like web design or marketing support at very affordable prices.
 
-# Scope
+### Scope
 - To begin with this site is to inform and inspire people into registering their interest in joining Kind Cornwall, we have included a quiz to increase engagement with our users.
  - After launch the people that have registered will be invited to formally register and the site will be updated with a form so new visitors will be able to apply for membership.
 - Members will be given access to a private slack channel, we are partnering with booking app fibodo so users that offer experience will be given free access so they can upload their diary take booking and get paid through the app.
 - We will then aggregate the date and create the activity finder. This will be a new website Experience Cornwall.
 
-# Structure
+### Structure
 
 - The site will be easily navigated with a reactive Nav Bar,
 - Will will use modal, and accordions so the user can access more information but the site remains text light.
 - The site will include interactive quiz
 
 
-# Skeleton
-Upload wireframes
+### Skeleton
+- Here are our original wireframes
+- ![Wireframes](markdown/images/wireframes.jpg)
+- In the build process we decided to drop the blog and we found better ways to display our content.
 
-
-
-# Surface
+### Surface
 - We want the site to be simple and clean, it will be predominately white and call to actions will be bright colours to get the users attention. 
 - We are using a collection of circular images containing people to represent members. Or activities to represent the experience finder.
 - The circular images will be a consistent design theme through the site.
@@ -44,7 +44,7 @@ Upload wireframes
 
 
 
-### Existing Features
+## Existing Features
 
 - __Navigation Bar__
 
@@ -133,48 +133,13 @@ Upload wireframes
 
 ### Features Left to Implement
 
+- Login for members
+- Members area with details to slack channel
+- Booking App Download
+- Build Experience Cornwall an link
 
-## Testing 
+## User Stories
 
-
-- __Different Browsers__
-
- - The site tests well on different browsers.
-
-- __Chrome__
-
- - All previous screenshots in this document have been taken from Chrome.
-
-- __Mozilla__
-
- - There were no errors when testing on Mozilla.
-
-
-- __Edge__
-
- - There were no errors when testing on edge.
-
-
-
-- __Footer__
-
- - You are not able to click join unless you enter your email address.
-
- - 
-
-- __Responsiveness__
-
- - The site is responsive and reads well on all devices and browsers.
-
- - This image shows the site minimised on Chrome, Edge and Mozilla.
-
- - ![Responsiveness Image](
-
-### Validator Testing 
-
-### Unfixed Bugs
-
-No bugs unfixed
 
 ## Deployment
 
